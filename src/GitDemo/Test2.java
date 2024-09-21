@@ -20,7 +20,7 @@ public class Test2
 	public void Test4()
 	{
 		
-		System.out.println("Test4");
+		System.out.println("Test4fffff");
 	}
 	
 }
