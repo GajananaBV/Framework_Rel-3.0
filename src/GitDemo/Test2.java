@@ -22,9 +22,5 @@ public class Test2
 		
 		System.out.println("Test4");
 	}
-	public void Merge()
-	{
-		
-		System.out.println("Create one new Barnch and merge the brance");
-	}
+	
 }
